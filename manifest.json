@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Interstellar",
+  "description": "Interstellar Proxy",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.js",
+    "default_icon": "103917385.png"
+  }
+}
